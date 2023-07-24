@@ -3,3 +3,184 @@
     margin: 0;
     padding: 0;
 }
+
+.body
+{
+    width: 1920px;
+    height: 943px;
+    background: #FFFFFF;
+}
+/*Главная страница*/
+.MainPage
+{
+    width: 1920px;
+    height: 700px;
+}
+.Main_bar
+{
+    width: 1170px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.Logo
+{
+    width: 137px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.Logo_img
+{
+    width: 35px;
+    height: 40px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.text_part_1
+{
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text_part_2
+{
+    color: #F25822;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu
+{
+    width: 533px;
+    height: 17px;
+    flex-shrink: 0;
+}
+.text_orang
+{
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+.menu_text
+{
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu_img
+{
+    width: 6px;
+    height: 3px;
+    flex-shrink: 0;    
+}
+.HomeMeta
+{
+    width: 522px;
+    height: 374px;
+    flex-shrink: 0;
+}
+.title
+{
+    width: 522px;
+    height: 222px;
+    flex-shrink: 0;    
+}
+.title_h1
+{
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+.sub_Title
+{
+    width: 466px;
+    height: 48px;
+    flex-shrink: 0;    
+}
+.paragraf
+{
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+.ButtonMeta
+{
+    width: 302px;
+    height: 50px;
+    flex-shrink: 0;
+}
+.Button
+{
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+}
+.button
+{
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;    
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);    
+}
+.video_text
+{
+    width: 90px;
+    height: 19px;
+    flex-shrink: 0;
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+.Image
+{
+    width: 610.735px;
+    height: 372.904px;
+    flex-shrink: 0;
+}
+.main_image
+{
+    width: 544.814px;
+    height: 374.843px;
+    flex-shrink: 0;  
+          
+}
+/*низ*/
+.Botton
+{
+    width: 1920px;
+    height: 243px;
+}
+.brand_logo
+{
+    width: 1200px;
+    height: 50px;
+    flex-shrink: 0;
+}
+.brand__image
+{
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+    gap: 48px;
+}
